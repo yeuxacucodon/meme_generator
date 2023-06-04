@@ -40,4 +40,5 @@ export default [
 	'https://i.imgur.com/Ege0TYW.png',
 	'https://i.imgur.com/ioofpJ1.png',
 	'https://i.imgur.com/2X0xlis.png',
+	'https://i.imgur.com/G9L2vq1.png',
 ];
