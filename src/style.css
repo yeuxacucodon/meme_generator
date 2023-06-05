@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
 * {
 	margin: 0;
 	padding: 0;
@@ -12,10 +14,17 @@
 	height: 65px;
 	background-image: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(54, 9, 121, 1) 35%, rgba(0, 65, 255, 1) 100%);
 	color: white;
+	font-family: 'Lobster', cursive;
+}
+
+.header h2 {
+	font-size: 1.5rem;
 }
 
 .header a {
 	height: 90%;
+	display: flex;
+	align-items: center;
 }
 
 .header--image {
